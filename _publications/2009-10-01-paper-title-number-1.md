@@ -3,7 +3,7 @@ title: "Self-supervised learning for skin Cancer diagnosis with limited training
 data"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper shows that self-supervised pretraining can outperform standard supervised pretraining (on ImageNet) for small labelled cancer image datasets.'
 date: 2023-05-29
 venue: 'Computer Methods and Programs in Biomedicine'
 status: "Under review"
