@@ -1,8 +1,8 @@
 ---
 title: "Masters thesis"
 collection: publications
-permalink: /publication/foo
-excerpt: 'This thesis shows that self-supervised pretraining can outperform standard supervised pretraining (on ImageNet) for small labelled cancer image datasets.'
+permalink: /publication/masters_thesis
+excerpt: 'Thesis is an extended version of the above paper.'
 date: 2023-04-21
 ---
-[Download paper here](http://hamish-haggerty.github.io/files/masters_thesis.pdf)
+[Download thesis here](http://hamish-haggerty.github.io/files/masters_thesis.pdf)
