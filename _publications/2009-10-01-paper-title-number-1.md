@@ -7,6 +7,6 @@ excerpt: 'This paper shows that self-supervised pretraining can outperform stand
 date: 2023-05-29
 venue: 'Computer Methods and Programs in Biomedicine'
 status: "Under review"
-citation: 'R.Chandra, H.Haggerty. (2023)'
+citation: 'H.Haggerty, R.Chandra. (2023)'
 ---
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
