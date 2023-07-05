@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hamish Haggerty"
+title                    : "Hamish Haggerty personal website"
 title_separator          : "-"
 name                     : &name "Hamish Haggerty"
 description              : &description "AI alignment"
