@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download cv here](http://hamish-haggerty.github.io/files/new_cv.pdf)
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
