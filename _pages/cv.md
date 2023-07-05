@@ -11,7 +11,8 @@ redirect_from:
 
 
 [Download academic cv here](http://hamish-haggerty.github.io/files/new_cv.pdf)
-<!--
+
+[
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
@@ -60,4 +61,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
--->
+]
