@@ -9,4 +9,4 @@ venue: 'Computer Methods and Programs in Biomedicine'
 status: "Under review"
 citation: 'H.Haggerty, R.Chandra. (2023)'
 ---
-[Download paper here](http://academicpages.github.io/files/ssl_cancer_diagnosis_paper1.pdf)
+[Download paper here](http://hamish-haggerty.github.io/files/ssl_cancer_diagnosis_paper1.pdf)
