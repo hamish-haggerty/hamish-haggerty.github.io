@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-[Download academic cv here](http://hamish-haggerty.github.io/files/new_cv.pdf)
+[Download academic cv here](http://hamish-haggerty.github.io/files/academic_cv.pdf)
 
 <!--  
 Education
